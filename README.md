@@ -1,4 +1,4 @@
 # quote-backend
-NPM INSTALL
+npm install
 
-NPM START
+npm start
